@@ -161,15 +161,8 @@
       </plugins>
     </pluginManagement>
   </build>
-  <distributionManagement>
-  <snapshotRepository>
-    <id>snapshots</id>
-    <url>http://13.233.50.45:8081/nexus/content/repositories/nexus/</url>
-  </snapshotRepository>
-</distributionManagement>
-                
-
-  <dependencyManagement>
+  
+<dependencyManagement>
     <dependencies>
       <dependency>
         <groupId>javax.servlet</groupId>
