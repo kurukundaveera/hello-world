@@ -1,3 +1,3 @@
 <h1> Hello, Welcome </h1>
-<h2> Deploying a war file on Ansible <h2>
+<h2> Deploying a container  on Ansible <h2>
 
